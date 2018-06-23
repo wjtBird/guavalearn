@@ -25,5 +25,3 @@ hs_err_pid*
 
 .idea/
 guavalearn.iml
-src/main/resources/
-src/test/resources/
